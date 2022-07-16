@@ -1,0 +1,171 @@
+*{
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgba(255, 166, 0, 0.118);
+    display: flex;
+    padding-bottom: 100px;
+}
+h1{
+    font-size: 30px;
+}
+#firstdiv{
+    padding: 0px 60px;
+}
+.max-width{
+    width: 40%;
+
+}
+#banimg{
+    width: 500px;
+    height: 400px;
+    margin-left: 250px;
+}
+h4{
+    padding-top: 90px;
+    padding-bottom: 10px;
+}
+span{
+    color: orange;
+}
+.paragraph{
+    text-align: justify;
+    padding: 20px 0px;
+}
+.button{
+    text-decoration: none;
+    padding: 3px 5px;
+    background-image:linear-gradient(red, orange);
+    background-color: orange;
+    border-radius: 5px;
+    font-weight: 700;
+    color: wheat;
+    
+}
+.serviceid{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.max-width2{
+   
+    width: 30%;
+    padding:2% 2%;
+    background-color: rgba(255, 166, 0, 0.118);
+    
+}
+.icon{
+    width: 50px;
+}
+.flex{
+    display: flex;
+}
+.mwi{
+    display: flex;
+}
+.mw{
+    padding-right: 10px;
+}
+#fone{
+    margin-left: 180px;
+    margin-right: 50px;
+}
+#mone{
+    margin-left: 0px;
+    margin-right: 50px;
+}
+#lone{
+    margin-left: 50px;
+    margin-right: 180px;
+}
+.pad{
+    padding-bottom: 80px;
+}
+
+.lpic{
+width: 180px;
+position: relative;
+left: 80px;
+}
+
+.pch{
+    text-align: center;
+    padding-bottom: 2%;
+
+}
+.pcp{
+text-align: center;
+padding-bottom: 2%;
+}
+.pbtn{
+text-decoration: none;
+background-image: radial-gradient(red, orange);
+padding: 1%;
+border-radius: 5px;
+position: relative;
+left: 128px;
+
+}
+
+.flex3{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 25px;   
+}
+.max-wid{
+    width: 40%;
+    padding: 2% 3%;
+  
+}
+#pcid1{
+    margin-right: 50px;
+    box-shadow: 0px 0px 5px grey;
+  
+}
+#pcid2{
+    margin-right: 50px;
+    box-shadow: 00px 00px 5px grey;
+
+}
+#pcid3{
+
+    box-shadow: 0px 0px 5px grey;
+   
+}
+.bh{
+    margin-left: 98px;
+    
+    padding-bottom: 18px;
+
+}
+
+#middle
+{
+    text-align: center;
+    padding: 2% 4%;
+    margin: 0 11%;
+    margin-bottom: 2%;
+    background-color: rgba(255, 166, 0, 0.118);
+}
+#email{
+    padding: 1%;
+}
+#sub{
+    background-image: radial-gradient(orange, red);
+    text-decoration: none;
+    padding: 1%;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 3% 0;
+}
